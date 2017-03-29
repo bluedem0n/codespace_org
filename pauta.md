@@ -1,4 +1,4 @@
-# Pauta para realizar una Oferta Laboral para pertenecer a Codespace                                                                           
+## Pauta para realizar una Oferta Laboral para pertenecer a Codespace                                                                           
                   
 Para publicar una Práctica en Codespace los requisitos mínimos son :
 
